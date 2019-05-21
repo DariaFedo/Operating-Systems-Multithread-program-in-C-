@@ -1,0 +1,10 @@
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.csprojAssemblyReference.cache
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.Form1.resources
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.Properties.Resources.resources
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.csproj.GenerateResource.cache
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.csproj.CoreCompileInputs.cache
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\bin\Debug\SystemyOperacyjneProjekt.exe.config
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\bin\Debug\SystemyOperacyjneProjekt.exe
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\bin\Debug\SystemyOperacyjneProjekt.pdb
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.exe
+C:\Users\fedo\source\repos\SystemyOperacyjneProjekt\SystemyOperacyjneProjekt\obj\Debug\SystemyOperacyjneProjekt.pdb
